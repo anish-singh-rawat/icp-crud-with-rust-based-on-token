@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/icrc2_backend"
+]
+resolver = "2"

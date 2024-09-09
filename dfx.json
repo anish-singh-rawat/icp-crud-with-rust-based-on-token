@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "icrc2_backend": {
+      "candid": "src/icrc2_backend/icrc2_backend.did",
+      "package": "icrc2_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
